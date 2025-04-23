@@ -1,1 +1,42 @@
 
+
+Technical Brief on Insider Threat Risk:
+Cleaning Crew Data Exposure Incident
+Crystal Brock
+Global Campus, Southern New Hampshire University
+IT200: Fundamentals of Information Technology
+Professor William McBorrough
+April 16, 2025
+Cleaning Crew Data Exposure Incident
+
+Introduction
+
+    As a security analyst supporting a financial firm that handles high-income accounts, I recently observed behavior that highlights a clear insider threat risk. While assisting an administrative assistant with printer security, I witnessed members of the contracted cleaning crew paying close attention to the information displayed on analysts’ computer screens. One cleaner was also seen retrieving documents from a bin marked for destruction and attempting to conceal them on a cleaning cart. These individuals may fall under the category of low-level insider threat actors—people with physical access to sensitive environments who are not directly employed by the organization. Their motivations are speculative but potentially serious, including data theft for personal financial gain, identity fraud, or resale of proprietary information. The casual treatment of sensitive data in their presence increases the risk of exploitation.
+
+Analysis
+
+    Detecting this type of threat actor requires a mix of physical monitoring, user awareness, and data access tracking. A proactive approach includes the use of surveillance cameras, access control systems with logged entry times, and behavior monitoring software for systems displaying sensitive data. Methods such as automatic screen lockouts, secure document destruction procedures, and employee training on situational awareness can further help. According to the U.S. Department of Homeland Security (2020), the best way to identify low-tech adversaries is by monitoring physical behavior and maintaining access logs that track when and where individuals move through secure spaces. A culture of vigilance, rather than passive observation, is a critical component of early detection.
+
+    From an ethical and legal standpoint, financial companies have a duty to protect the confidentiality of customer data. Laws such as the Gramm-Leach-Bliley Act (GLBA) require firms to ensure the security and confidentiality of non-public personal information. Ethically, the company must also maintain the trust of its clients by taking reasonable steps to protect their data—even from internal oversights or contractor negligence. Ignoring physical security in favor of focusing only on cyber threats is not acceptable when client privacy is at risk. A security program that overlooks third-party risks opens the organization to lawsuits, financial penalties, and long-term reputational harm (Federal Trade Commission, 2022).
+
+    In response to the observed behavior, one immediate tactic should be to re-evaluate physical access controls. The organization should restrict when and where cleaning crews can operate and require that they be supervised while working near sensitive data. Another important method would be to conduct regular reviews of document disposal practices. Locked shredding bins, audit logs, and secure pickup services can ensure that physical documents aren’t left vulnerable. These kinds of controls align with best practices from NIST, which advises that “access to sensitive data—whether digital or paper—should be limited to authorized, trained personnel only” (NIST, 2020).
+
+    To prevent similar incidents in the future, ongoing employee security training is essential. Staff should be reminded to log out of or lock their systems when away from their desks and to report any suspicious behavior immediately. Additionally, the company should redesign workspaces to limit visibility of screens and documents from foot traffic areas. Using privacy screens, desk partitions, and security awareness posters reinforces the expectation of vigilance. The organization must also evaluate all third-party relationships and ensure contracts include clear language around acceptable behavior and confidentiality.
+
+Conclusion
+
+    The ramifications of these tactics are significant and overwhelmingly positive if implemented well. By securing both digital and physical environments, the company reduces the overall attack surface and increases its ability to detect and respond to adversarial actions. Strong controls not only reduce the risk of a data breach but also build a culture of accountability and trust within the organization. While tighter access and stricter oversight may introduce some operational friction, the cost of inaction is far higher. Protecting client data isn't just a legal obligation—it’s essential for the company’s survival in a highly competitive and regulated industry.
+
+References
+
+Federal Trade Commission. (2022). Gramm-Leach-Bliley Act (GLBA). https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act
+
+National Institute of Standards and Technology. (2020). Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) (SP 800-122). https://doi.org/10.6028/NIST.SP.800-122
+
+U.S. Department of Homeland Security. (2020). Insider Threat Mitigation Guide. https://www.cisa.gov/sites/default/files/publications/insider-threat-mitigation-guide-508.pdf
+
+Kim, D., & Solomon, M. G. (2023). Fundamentals of information systems security (4th ed.). Jones & Bartlett Learning.
+
+
+
+
